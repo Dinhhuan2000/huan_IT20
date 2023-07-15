@@ -1,0 +1,14 @@
+D:\CNT01\Form_TourDL\Form_TourDL\bin\Debug\Form_TourDL.exe.config
+D:\CNT01\Form_TourDL\Form_TourDL\bin\Debug\Form_TourDL.exe
+D:\CNT01\Form_TourDL\Form_TourDL\bin\Debug\Form_TourDL.pdb
+D:\CNT01\Form_TourDL\Form_TourDL\obj\Debug\Form_TourDL.csproj.AssemblyReference.cache
+D:\CNT01\Form_TourDL\Form_TourDL\obj\Debug\Form_TourDL.csproj.SuggestedBindingRedirects.cache
+D:\CNT01\Form_TourDL\Form_TourDL\obj\Debug\Form_TourDL.F_main.resources
+D:\CNT01\Form_TourDL\Form_TourDL\obj\Debug\Form_TourDL.F_Nhanvien.resources
+D:\CNT01\Form_TourDL\Form_TourDL\obj\Debug\Form_TourDL.Properties.Resources.resources
+D:\CNT01\Form_TourDL\Form_TourDL\obj\Debug\Form_TourDL.csproj.GenerateResource.cache
+D:\CNT01\Form_TourDL\Form_TourDL\obj\Debug\Form_TourDL.csproj.CoreCompileInputs.cache
+D:\CNT01\Form_TourDL\Form_TourDL\obj\Debug\Form_TourDL.exe
+D:\CNT01\Form_TourDL\Form_TourDL\obj\Debug\Form_TourDL.pdb
+D:\CNT01\Form_TourDL\Form_TourDL\obj\Debug\Form_TourDL.F_Taikhoan.resources
+D:\CNT01\Form_TourDL\Form_TourDL\obj\Debug\Form_TourDL.Taikhoan.resources
